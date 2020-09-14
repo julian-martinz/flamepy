@@ -1,2 +1,2 @@
 # flamepy
-Simple helpful python scripts to extend functionality of autodesk flame
+Python scripts to extend the functionality of autodesk flame utilizing the python api
